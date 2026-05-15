@@ -9,56 +9,36 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+# CV
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+You can download my full CV here:
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+[Download CV](/files/Akashdeep_CV.pdf)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Education
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- PhD in Physics, [University Name], [Year]
+- Master’s degree in [Field], [University Name], [Year]
+- Bachelor’s degree in [Field], [University Name], [Year]
+
+## Research Experience
+
+- Doctoral Researcher, [University Name], [Dates]
+- [Other role], [Institution], [Dates]
+
+## Skills
+
+- Research and scientific analysis
+- Data analysis
+- Scientific writing
+- Academic publishing
+- [Programming/tools]
+- [Laboratory/simulation/theory methods]
+
+## Publications
+
+A selected publication list is available on the [Publications page](/publications/).
+
+## Projects
+
+Selected projects are available on the [Projects page](/projects/).
