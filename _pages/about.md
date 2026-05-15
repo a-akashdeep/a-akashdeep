@@ -4,7 +4,6 @@ permalink: /about/
 author_profile: true
 ---
 
-# About
 
 I am a PhD physicist with a research background in experimental condensed matter physics, spintronics, magnetic thin films, and emerging magnetic materials.
 
