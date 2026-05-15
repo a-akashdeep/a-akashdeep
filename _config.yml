@@ -23,12 +23,12 @@ repository               : "a-akashdeep/a-akashdeep.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Akashdeep"
   pronouns         : # example: "she/her"  
   bio              : "PhD physicist with experience in research, data analysis, scientific computing, and academic publishing."
   location         : "Mainz, Germany"
-  employer         : "Johannes Gutenberg University of Mainz"
+  employer         : "Johannes Gutenberg-Universität Mainz"
   uri              : # URL
   email            : "ghalayan.akashdeep@gmail.com" 
 
