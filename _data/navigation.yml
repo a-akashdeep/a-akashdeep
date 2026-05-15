@@ -14,8 +14,8 @@ main:
   - title: "About"
     url: /about/
 
-  - title: "Experience"
-    url: /experience/
+  - title: "Research"
+    url: /research/
 
   - title: "Projects"
     url: /projects/
@@ -23,8 +23,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Writing"
-    url: /writing/
+  - title: "Experience"
+    url: /experience/
 
   - title: "Contact"
     url: /contact/
