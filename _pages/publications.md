@@ -4,9 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Publications
-
-My publications focus on experimental condensed matter physics, spintronics, magnetic thin films, altermagnetism, spin transport, magnetotransport, magnonics, and advanced probes of magnetic order.
+My publications focus on experimental condensed-matter physics, spintronics, magnetic thin films, alternmagnetism, spin transport, magnetotransport, magnonics, and advanced probes of magnetic order.
 
 ## Selected publications
 
@@ -59,7 +57,7 @@ My publications focus on experimental condensed matter physics, spintronics, mag
 4. **Single spin Hall anomalous Hall and Hanle effect in YIG/Ta and YIG/Pt bilayers**  
    A. Akashdeep, D. M. Tran, M. Kläui, G. Jakob, and T. Kuschel.  
    Under preparation (2026).  
-   Link to be added when public.
+   Not yet public.
 
 ### 2025
 
@@ -94,26 +92,3 @@ My publications focus on experimental condensed matter physics, spintronics, mag
     M. Weber, S. Wust, L. Haag, A. Akashdeep, K. Leckron, C. Schmitt, R. Ramos, T. Kikkawa, E. Saitoh, M. Kläui, L. Šmejkal, J. Sinova, M. Aeschlimann, G. Jakob, B. Stadtmüller, and H. C. Schneider.  
     arXiv:2408.05187 (2024).  
     [arXiv](https://arxiv.org/abs/2408.05187)
-
----
-
-## Publications by research topic
-
-### Altermagnetism and RuO₂
-
-- Angle-dependent magnetoresistance induced by interface-generated spin current in RuO₂/permalloy heterostructures
-- Surface-localized magnetic order in RuO₂ thin films revealed by low-energy muon probes
-- Observation of time-reversal symmetry breaking in the band structure of altermagnetic RuO₂
-- Magnetic circular dichroism in core-level X-ray photoelectron spectroscopy of altermagnetic RuO₂ films
-- All optical excitation of spin polarization in d-wave altermagnets
-
-### Altermagnetism beyond RuO₂
-
-- Revealing the altermagnetism in hematite via XMCD imaging and anomalous Hall electrical transport
-- Altermagnetic magnon transport in the d-wave altermagnet LuFeO₃
-
-### Ferrimagnetic spintronics and magnonics
-
-- Temperature-dependent study of the spin dynamics of coupled Y₃Fe₅O₁₂/Gd₃Fe₅O₁₂/Pt trilayers
-- Emergence of a spin Hall topological Hall effect in the non-collinear phase of terbium-iron garnet
-- Single spin Hall anomalous Hall and Hanle effect in YIG/Ta and YIG/Pt bilayers
