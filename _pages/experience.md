@@ -4,11 +4,9 @@ permalink: /experience/
 author_profile: true
 ---
 
-# Experience
-
 ## Doctoral research in Physics
 
-My PhD research focused on experimental condensed matter physics and spintronics, with emphasis on magnetic thin films, altermagnetic materials, spin currents, magnetotransport, and advanced characterization of magnetic order.
+My PhD research focused on experimental condensed-matter physics and spintronics, with an emphasis on magnetic thin films, altermagnetic materials, spin currents, magnetotransport, and advanced characterization of magnetic order.
 
 Through my doctoral and collaborative research, I gained experience in:
 
@@ -51,6 +49,7 @@ My work connects several research areas:
 
 ## Education
 
-- PhD in Physics, [University Name], [Year]
-- Master’s degree in [Field], [University Name], [Year]
-- Bachelor’s degree in [Field], [University Name], [Year]
+- PhD in Physics, Johannes Gutenberg-Universität Mainz, 2021-2026
+- Junior Research Fellow, Indian Institute Of Technology Delhi, 2017-2019
+- Master’s degree in Physics, Indian Institute of Technology Delhi, 2017-2019
+- Bachelor’s degree in Physics, University of Delhi, 2014-2017
