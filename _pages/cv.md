@@ -9,22 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-# CV
-
 You can download my full CV here:
 
 [Download CV](/files/Akashdeep_CV.pdf)
 
 ## Education
 
-- PhD in Physics, [University Name], [Year]
-- Master’s degree in [Field], [University Name], [Year]
-- Bachelor’s degree in [Field], [University Name], [Year]
+- PhD in Physics, Johannes Gutenberg-Universität Mainz, 2021-2026
+- Master’s degree in Physics, Indian Institute of Technology Delhi, 2017-2019
+- Bachelor’s degree in Physics, University of Delhi, 2014-2017
 
 ## Research Experience
 
-- Doctoral Researcher, [University Name], [Dates]
-- [Other role], [Institution], [Dates]
+- Doctoral Researcher, Johannes Gutenberg-Universität Mainz, 2021-2026
+- Junior Research Fellow, Indian Institute Of Technology Delhi, 2017-2019
 
 ## Skills
 
