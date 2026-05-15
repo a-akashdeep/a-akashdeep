@@ -6,36 +6,51 @@ author_profile: true
 
 # Experience
 
-## Doctoral Research
+## Doctoral research in Physics
 
-**PhD in Physics**  
-[University Name], [Dates]
+My PhD research focused on experimental condensed matter physics and spintronics, with emphasis on magnetic thin films, altermagnetic materials, spin currents, magnetotransport, and advanced characterization of magnetic order.
 
-During my PhD, I worked on [brief research topic]. My work involved [experiments/simulations/data analysis/theory/collaboration/writing — choose what fits you].
+Through my doctoral and collaborative research, I gained experience in:
 
-Key areas of experience:
+- Designing and interpreting experiments in magnetic thin-film heterostructures
+- Studying spin transport, magnetotransport, and Hall-related effects
+- Working with altermagnetic and ferrimagnetic material systems
+- Analyzing temperature-, field-, and angle-dependent measurement data
+- Contributing to peer-reviewed journal publications
+- Collaborating with experimental and theoretical research groups
+- Communicating research through manuscripts, figures, presentations, and discussions
 
-- Research design and scientific problem-solving
-- Data analysis and interpretation
-- Academic writing and publication preparation
-- Literature review and scientific communication
-- Collaboration with researchers and academic teams
-- Presentation of research results
+## Research methods and technical experience
 
-## Master’s Degree
+My publication record includes work involving:
 
-**Master’s in [Field]**  
-[University Name], [Dates]
+- Magnetotransport and angle-dependent magnetoresistance
+- Hall-effect measurements
+- Spin-current-related transport effects
+- Ferromagnetic resonance
+- Spin pumping and spin Seebeck effect
+- Low-energy muon spin rotation/relaxation
+- X-ray magnetic circular dichroism and X-ray photoelectron spectroscopy
+- Kerr microscopy
+- Thin-film heterostructures and oxide magnetic materials
+- Scientific data analysis and visualization
+- Scientific writing and publication preparation
 
-Briefly describe your master’s focus, thesis, or important technical skills.
+## Research areas
 
-## Bachelor’s Degree
+My work connects several research areas:
 
-**Bachelor’s in [Field]**  
-[University Name], [Dates]
+- Spintronics
+- Altermagnetism
+- Magnetic thin films
+- Magnonics
+- Ferrimagnetic insulators
+- Surface and interface magnetism
+- Experimental condensed matter physics
+- Quantum materials and functional magnetic materials
 
-Briefly describe your foundation in physics, mathematics, laboratory work, or technical training.
+## Education
 
-## Additional Experience
-
-Add teaching, mentoring, internships, workshops, collaborations, or professional experience here.
+- PhD in Physics, [University Name], [Year]
+- Master’s degree in [Field], [University Name], [Year]
+- Bachelor’s degree in [Field], [University Name], [Year]
